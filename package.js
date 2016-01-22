@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'hnssn:tachyons',
+  name: 'hasse:tachyons',
   version: '0.0.1',
   summary: 'Tachyons packaged for Meteor',
   git: 'https://github.com/hejhansson/meteor-tachyons.git',
