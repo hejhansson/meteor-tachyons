@@ -1,6 +1,6 @@
-CSS for designing faster than the speed of light by (mrmrs)[http://mrmrs.cc/]
+CSS for designing faster than the speed of light by [mrmrs](http://mrmrs.cc/)
 
-(http://tachyons.io/)[http://tachyons.io/]
+[http://tachyons.io](http://tachyons.io/)
 
 # PRINCIPLES
 
