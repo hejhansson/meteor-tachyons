@@ -1,6 +1,6 @@
 Package.describe({
   name: 'hasse:tachyons',
-  version: '0.0.1',
+  version: '1.0',
   summary: 'Tachyons packaged for Meteor',
   git: 'https://github.com/hejhansson/meteor-tachyons.git',
   documentation: 'README.md'
